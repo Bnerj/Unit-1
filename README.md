@@ -4,7 +4,7 @@
 
 This section documents my hands-on cybersecurity projects completed during Unit 1 of the CodePath Cybersecurity Bootcamp.
 
-## Completed Projects
+## Completed 
 
 ### 1. It Wasn't Me – Insider Threat Investigation
 
